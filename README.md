@@ -1,4 +1,4 @@
-# egghead.io Reviewer's Guide to Reviewing
+# egghead.io Reviewer's Guide
 
 
 ## Overview
